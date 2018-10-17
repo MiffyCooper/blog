@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: miffy blog
+title: 鼓励师米肥🐰
 subtitle:
 description: 鼓励师米肥
 keywords:
-author: MIFFY
-language:
+author: Miffy Cooper
+language: zh-CN
 timezone:
 
 # URL
@@ -73,7 +73,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: BlueLake
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
